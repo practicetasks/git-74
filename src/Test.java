@@ -1,6 +1,6 @@
 public class Test {
     public static void main(String[] args) {
-        // Версия 1
+        // Версия 3
 
         // git init - создание локального репозитория
         // git add - добавить файлы в staging area
